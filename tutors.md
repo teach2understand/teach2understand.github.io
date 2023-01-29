@@ -1,4 +1,4 @@
-![Book logo](assets/img/blaj.jpg =250x250 )
+![Book logo](assets/img/blaj.jpg)
 
 ## Alex Funnel
 Some text about Alex blah blah
