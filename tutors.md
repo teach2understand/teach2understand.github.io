@@ -1,7 +1,7 @@
-<img align="left" width="200" src=assets/img/blaj.jpg />
+<img align="left" src="assets/img/blaj.jpgg">
 
 ## Alex Funnel
-Some text about Alex blah blah...
+Some text about Alex blah blah ... ...
 
 
 
