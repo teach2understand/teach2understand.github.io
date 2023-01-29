@@ -1,9 +1,5 @@
-<img
-src=“assets/img/blaj.jpg”
-raw=true
-alt=“Subject Pronouns”
-style=“float: left: 10px;”
-/>
+<img src="assets/img/AFT2V2_1.png" class="img-responsive" alt=""> </div>
+
 
 ## Alex Funnel
 Some text about Alex
