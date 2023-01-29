@@ -1,2 +1,4 @@
-[](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
-Alex Funnel
+![image](assets/img/blaj.jpg){: style="float: left"}
+
+## Alex Funnel
+Some text about Alex
