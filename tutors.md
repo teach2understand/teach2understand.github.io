@@ -1,4 +1,4 @@
-![Book logo](assets/img/AFT2V2_1.png)
+![Book logo](assets/img/blaj.jpg =250x250 )
 
 ## Alex Funnel
 Some text about Alex blah blah
